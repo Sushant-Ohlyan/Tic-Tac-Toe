@@ -6,9 +6,7 @@ I have created a Tic Tac Toe program in several programming languages, including
 ## Languages Used
 
 ### C
-<!--
-![C Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dc%2BLanguage&psig=AOvVaw2yaIMUEMYH5jyExKFQDvT9&ust=1716182835507000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDE7rL9mIYDFQAAAAAdAAAAABAJ)
--->
+
 ```c
 #include <stdio.h>
 // Simple C Tic Tac Toe code snippet
