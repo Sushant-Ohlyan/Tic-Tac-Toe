@@ -1,6 +1,3 @@
-<!--# Tic-Tac-Toe
-Certainly! Here's an example of a Markdown file (`README.md`) that demonstrates you have created a Tic Tac Toe program in C, C++, Java, Python, and JavaScript, using pictures and colored text for emphasis.-->
-
 ```markdown
 # Tic Tac Toe Program
 
@@ -9,7 +6,7 @@ I have created a Tic Tac Toe program in several programming languages, including
 ## Languages Used
 
 ### C
-![C Logo](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png)
+![C Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dc%2BLanguage&psig=AOvVaw2yaIMUEMYH5jyExKFQDvT9&ust=1716182835507000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDE7rL9mIYDFQAAAAAdAAAAABAJ)
 
 ```c
 #include <stdio.h>
@@ -65,7 +62,7 @@ console.log("Welcome to Tic Tac Toe in JavaScript!");
 - **User-Friendly Interface**: The program features a simple and intuitive interface.
 - **Cross-Platform Compatibility**: Works on various operating systems.
 - **Multiple Languages**: Implemented in multiple programming languages for learning purposes.
-
+<!--
 ## Screenshots
 
 ### C
@@ -82,7 +79,7 @@ console.log("Welcome to Tic Tac Toe in JavaScript!");
 
 ### JavaScript
 ![Tic Tac Toe in JavaScript](https://via.placeholder.com/150/FFFF00/000000?text=JavaScript+Screenshot)
-
+-->
 ## How to Run
 
 ### C
@@ -114,8 +111,7 @@ Open the `tictactoe.html` file in your browser.
 ## Conclusion
 
 This Tic Tac Toe project demonstrates my ability to implement the same logic in different programming languages, showcasing versatility and adaptability in coding.
-```
-
+<!--
 ### Explanation
 
 - **Headers (`#`)**: Used to create different sections of the document.
@@ -125,3 +121,5 @@ This Tic Tac Toe project demonstrates my ability to implement the same logic in 
 - **Placeholders**: Used URLs from Wikipedia for language logos and placeholders for screenshots.
 
 This Markdown file provides a comprehensive overview of your Tic Tac Toe project across multiple programming languages, complete with images and code snippets.
+-->
+```
